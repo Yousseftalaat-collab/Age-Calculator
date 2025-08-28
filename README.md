@@ -9,7 +9,7 @@ Designed with a clean and user-friendly interface.
 
 <h2>📸 Preview</h2>
 <div align="center">
-  <img src="./screenshoot.gif" width="800" alt="Age Calculator Preview"/>
+  <img src="./screenshoot.png" width="800" alt="Age Calculator Preview"/>
 </div>
 
 <hr>
@@ -31,13 +31,6 @@ Designed with a clean and user-friendly interface.
   <li>🎨 CSS3 (custom styling)</li>
   <li>⚡ JavaScript (logic & validation)</li>
 </ul>
-
-<hr>
-
-<h2>🚀 Live Demo</h2>
-
-<p>🌐 View here: <a href="https://your-username.github.io/age-calculator/" target="_blank">Live Project</a></p>
-<p>📂 GitHub Repo: <a href="https://github.com/your-username/age-calculator" target="_blank">Repository</a></p>
 
 <hr>
 
