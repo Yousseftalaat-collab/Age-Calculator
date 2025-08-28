@@ -9,7 +9,7 @@ Designed with a clean and user-friendly interface.
 
 <h2>📸 Preview</h2>
 <div align="center">
-  <img src="./screenshoot.png" width="800" alt="Age Calculator Preview"/>
+  <img src="./Screenshoot.png" width="800" alt="Age Calculator Preview"/>
 </div>
 
 <hr>
